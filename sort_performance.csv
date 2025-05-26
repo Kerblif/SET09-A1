@@ -1,0 +1,601 @@
+Algorithm,DataType,DataSize,Time_ms,Comparisons,Verified
+Merge Sort,Random,100,0.087400,1147,true
+Quick Sort,Random,100,0.407200,1388,true
+Radix Sort,Random,100,0.197600,349,true
+Radix+Quick Sort,Random,100,0.317200,1321,true
+Merge Sort,Sorted,100,0.061600,770,true
+Quick Sort,Sorted,100,0.365000,1420,true
+Radix Sort,Sorted,100,0.219600,354,true
+Radix+Quick Sort,Sorted,100,0.379000,1353,true
+Merge Sort,Reverse Sorted,100,0.065000,688,true
+Quick Sort,Reverse Sorted,100,0.316800,1437,true
+Radix Sort,Reverse Sorted,100,0.185400,353,true
+Radix+Quick Sort,Reverse Sorted,100,0.365200,1352,true
+Merge Sort,Almost Sorted,100,0.075200,990,true
+Quick Sort,Almost Sorted,100,0.306000,1313,true
+Radix Sort,Almost Sorted,100,0.199200,354,true
+Radix+Quick Sort,Almost Sorted,100,0.303400,1373,true
+Merge Sort,Common Prefix,100,0.139000,3850,true
+Quick Sort,Common Prefix,100,0.362800,4632,true
+Radix Sort,Common Prefix,100,0.275000,1350,true
+Radix+Quick Sort,Common Prefix,100,0.370600,4663,true
+Merge Sort,Random,200,0.202000,2776,true
+Quick Sort,Random,200,0.656400,3537,true
+Radix Sort,Random,200,0.366800,780,true
+Radix+Quick Sort,Random,200,0.634400,3319,true
+Merge Sort,Sorted,200,0.137400,1817,true
+Quick Sort,Sorted,200,0.647600,3193,true
+Radix Sort,Sorted,200,0.371800,789,true
+Radix+Quick Sort,Sorted,200,0.642000,3180,true
+Merge Sort,Reverse Sorted,200,0.146200,1645,true
+Quick Sort,Reverse Sorted,200,0.659000,3292,true
+Radix Sort,Reverse Sorted,200,0.384200,787,true
+Radix+Quick Sort,Reverse Sorted,200,0.645600,3366,true
+Merge Sort,Almost Sorted,200,0.169200,2398,true
+Quick Sort,Almost Sorted,200,0.683800,3267,true
+Radix Sort,Almost Sorted,200,0.380400,781,true
+Radix+Quick Sort,Almost Sorted,200,0.672800,3589,true
+Merge Sort,Common Prefix,200,0.385800,9175,true
+Quick Sort,Common Prefix,200,1.098600,11610,true
+Radix Sort,Common Prefix,200,0.742400,2786,true
+Radix+Quick Sort,Common Prefix,200,0.817000,11458,true
+Merge Sort,Random,300,0.388600,4621,true
+Quick Sort,Random,300,1.008000,5625,true
+Radix Sort,Random,300,1.343600,1221,true
+Radix+Quick Sort,Random,300,0.759800,1842,true
+Merge Sort,Sorted,300,0.224000,2993,true
+Quick Sort,Sorted,300,1.069600,5621,true
+Radix Sort,Sorted,300,0.500200,1218,true
+Radix+Quick Sort,Sorted,300,0.737200,1890,true
+Merge Sort,Reverse Sorted,300,0.238600,2696,true
+Quick Sort,Reverse Sorted,300,1.008600,5598,true
+Radix Sort,Reverse Sorted,300,0.492000,1216,true
+Radix+Quick Sort,Reverse Sorted,300,0.734800,1870,true
+Merge Sort,Almost Sorted,300,0.277200,4085,true
+Quick Sort,Almost Sorted,300,0.985400,5730,true
+Radix Sort,Almost Sorted,300,0.490800,1218,true
+Radix+Quick Sort,Almost Sorted,300,0.742600,1896,true
+Merge Sort,Common Prefix,300,0.532800,15097,true
+Quick Sort,Common Prefix,300,1.245200,18136,true
+Radix Sort,Common Prefix,300,0.767400,4220,true
+Radix+Quick Sort,Common Prefix,300,1.030200,6984,true
+Merge Sort,Random,400,0.486400,6613,true
+Quick Sort,Random,400,1.343600,7847,true
+Radix Sort,Random,400,0.579400,1656,true
+Radix+Quick Sort,Random,400,1.046000,2908,true
+Merge Sort,Sorted,400,0.310000,4264,true
+Quick Sort,Sorted,400,1.398800,8754,true
+Radix Sort,Sorted,400,0.569800,1648,true
+Radix+Quick Sort,Sorted,400,1.049400,2886,true
+Merge Sort,Reverse Sorted,400,0.329000,3865,true
+Quick Sort,Reverse Sorted,400,1.368000,7881,true
+Radix Sort,Reverse Sorted,400,0.604000,1654,true
+Radix+Quick Sort,Reverse Sorted,400,1.034200,2927,true
+Merge Sort,Almost Sorted,400,0.396200,5821,true
+Quick Sort,Almost Sorted,400,1.357200,7921,true
+Radix Sort,Almost Sorted,400,0.576000,1653,true
+Radix+Quick Sort,Almost Sorted,400,1.028400,2852,true
+Merge Sort,Common Prefix,400,0.746800,21447,true
+Quick Sort,Common Prefix,400,1.770000,26848,true
+Radix Sort,Common Prefix,400,0.882400,5638,true
+Radix+Quick Sort,Common Prefix,400,1.418400,10254,true
+Merge Sort,Random,500,0.599200,8685,true
+Quick Sort,Random,500,1.729200,10420,true
+Radix Sort,Random,500,0.653400,2086,true
+Radix+Quick Sort,Random,500,1.316200,4004,true
+Merge Sort,Sorted,500,0.403000,5344,true
+Quick Sort,Sorted,500,1.817400,10768,true
+Radix Sort,Sorted,500,0.661200,2088,true
+Radix+Quick Sort,Sorted,500,1.314400,3989,true
+Merge Sort,Reverse Sorted,500,0.431200,5220,true
+Quick Sort,Reverse Sorted,500,1.672800,10364,true
+Radix Sort,Reverse Sorted,500,0.677000,2079,true
+Radix+Quick Sort,Reverse Sorted,500,1.318600,3973,true
+Merge Sort,Almost Sorted,500,0.518400,7551,true
+Quick Sort,Almost Sorted,500,1.721400,10429,true
+Radix Sort,Almost Sorted,500,0.638600,2068,true
+Radix+Quick Sort,Almost Sorted,500,1.316000,3956,true
+Merge Sort,Common Prefix,500,0.961000,27932,true
+Quick Sort,Common Prefix,500,2.108200,33898,true
+Radix Sort,Common Prefix,500,1.042200,7099,true
+Radix+Quick Sort,Common Prefix,500,1.822400,13856,true
+Merge Sort,Random,600,0.738200,10922,true
+Quick Sort,Random,600,2.149000,13781,true
+Radix Sort,Random,600,0.763400,2528,true
+Radix+Quick Sort,Random,600,1.632400,5161,true
+Merge Sort,Sorted,600,0.473200,6948,true
+Quick Sort,Sorted,600,2.072800,13411,true
+Radix Sort,Sorted,600,0.806200,2532,true
+Radix+Quick Sort,Sorted,600,1.622000,5224,true
+Merge Sort,Reverse Sorted,600,0.517400,6306,true
+Quick Sort,Reverse Sorted,600,2.015400,12803,true
+Radix Sort,Reverse Sorted,600,0.728000,2515,true
+Radix+Quick Sort,Reverse Sorted,600,1.597400,5249,true
+Merge Sort,Almost Sorted,600,0.621800,9706,true
+Quick Sort,Almost Sorted,600,2.027600,13309,true
+Radix Sort,Almost Sorted,600,0.735600,2529,true
+Radix+Quick Sort,Almost Sorted,600,1.618000,5241,true
+Merge Sort,Common Prefix,600,1.185200,34817,true
+Quick Sort,Common Prefix,600,2.582000,41852,true
+Radix Sort,Common Prefix,600,1.144000,8520,true
+Radix+Quick Sort,Common Prefix,600,2.127800,18013,true
+Merge Sort,Random,700,0.860600,13139,true
+Quick Sort,Random,700,2.442800,16535,true
+Radix Sort,Random,700,0.864400,2981,true
+Radix+Quick Sort,Random,700,1.921000,6593,true
+Merge Sort,Sorted,700,0.574600,8449,true
+Quick Sort,Sorted,700,2.369400,16210,true
+Radix Sort,Sorted,700,0.804800,2971,true
+Radix+Quick Sort,Sorted,700,1.884400,6594,true
+Merge Sort,Reverse Sorted,700,0.609800,7547,true
+Quick Sort,Reverse Sorted,700,2.322800,15487,true
+Radix Sort,Reverse Sorted,700,0.824200,2970,true
+Radix+Quick Sort,Reverse Sorted,700,1.868600,6480,true
+Merge Sort,Almost Sorted,700,0.770000,11969,true
+Quick Sort,Almost Sorted,700,2.394800,16064,true
+Radix Sort,Almost Sorted,700,0.835600,2970,true
+Radix+Quick Sort,Almost Sorted,700,1.864800,6563,true
+Merge Sort,Common Prefix,700,1.405800,41945,true
+Quick Sort,Common Prefix,700,3.014600,50880,true
+Radix Sort,Common Prefix,700,1.330400,9969,true
+Radix+Quick Sort,Common Prefix,700,2.508400,22085,true
+Merge Sort,Random,800,0.994200,15469,true
+Quick Sort,Random,800,2.756800,18861,true
+Radix Sort,Random,800,0.929400,3440,true
+Radix+Quick Sort,Random,800,2.173000,7970,true
+Merge Sort,Sorted,800,0.671800,9809,true
+Quick Sort,Sorted,800,2.824600,19531,true
+Radix Sort,Sorted,800,0.909400,3435,true
+Radix+Quick Sort,Sorted,800,2.116400,8053,true
+Merge Sort,Reverse Sorted,800,0.683200,8940,true
+Quick Sort,Reverse Sorted,800,2.775200,19145,true
+Radix Sort,Reverse Sorted,800,0.953400,3422,true
+Radix+Quick Sort,Reverse Sorted,800,2.198200,7932,true
+Merge Sort,Almost Sorted,800,0.901800,13894,true
+Quick Sort,Almost Sorted,800,2.776400,19101,true
+Radix Sort,Almost Sorted,800,0.915400,3428,true
+Radix+Quick Sort,Almost Sorted,800,2.167800,8046,true
+Merge Sort,Common Prefix,800,1.619600,49038,true
+Quick Sort,Common Prefix,800,3.482000,60318,true
+Radix Sort,Common Prefix,800,1.472400,11436,true
+Radix+Quick Sort,Common Prefix,800,3.067200,26574,true
+Merge Sort,Random,900,1.149800,17828,true
+Quick Sort,Random,900,3.085600,21530,true
+Radix Sort,Random,900,1.035000,3879,true
+Radix+Quick Sort,Random,900,2.555600,9486,true
+Merge Sort,Sorted,900,0.779200,11106,true
+Quick Sort,Sorted,900,3.110200,21460,true
+Radix Sort,Sorted,900,0.996000,3880,true
+Radix+Quick Sort,Sorted,900,2.416600,9366,true
+Merge Sort,Reverse Sorted,900,0.798000,10381,true
+Quick Sort,Reverse Sorted,900,3.091600,21149,true
+Radix Sort,Reverse Sorted,900,0.996600,3862,true
+Radix+Quick Sort,Reverse Sorted,900,2.405800,9409,true
+Merge Sort,Almost Sorted,900,1.000800,15714,true
+Quick Sort,Almost Sorted,900,3.178000,22153,true
+Radix Sort,Almost Sorted,900,0.986400,3864,true
+Radix+Quick Sort,Almost Sorted,900,2.429400,9375,true
+Merge Sort,Common Prefix,900,1.884600,56420,true
+Quick Sort,Common Prefix,900,3.990000,70667,true
+Radix Sort,Common Prefix,900,1.693400,12868,true
+Radix+Quick Sort,Common Prefix,900,3.423000,30887,true
+Merge Sort,Random,1000,1.282800,20301,true
+Quick Sort,Random,1000,3.442600,24758,true
+Radix Sort,Random,1000,1.071200,4312,true
+Radix+Quick Sort,Random,1000,2.822800,11055,true
+Merge Sort,Sorted,1000,0.846400,12256,true
+Quick Sort,Sorted,1000,3.478400,24874,true
+Radix Sort,Sorted,1000,1.106200,4338,true
+Radix+Quick Sort,Sorted,1000,2.800600,10889,true
+Merge Sort,Reverse Sorted,1000,0.913600,11990,true
+Quick Sort,Reverse Sorted,1000,3.517200,24964,true
+Radix Sort,Reverse Sorted,1000,1.127600,4340,true
+Radix+Quick Sort,Reverse Sorted,1000,2.827800,10961,true
+Merge Sort,Almost Sorted,1000,1.115200,17776,true
+Quick Sort,Almost Sorted,1000,3.436200,24710,true
+Radix Sort,Almost Sorted,1000,1.105800,4340,true
+Radix+Quick Sort,Almost Sorted,1000,2.849800,10911,true
+Merge Sort,Common Prefix,1000,2.091000,63797,true
+Quick Sort,Common Prefix,1000,4.380600,76858,true
+Radix Sort,Common Prefix,1000,1.795400,14325,true
+Radix+Quick Sort,Common Prefix,1000,3.816000,35928,true
+Merge Sort,Random,1100,1.457200,22769,true
+Quick Sort,Random,1100,3.862000,28436,true
+Radix Sort,Random,1100,1.218000,4792,true
+Radix+Quick Sort,Random,1100,3.100000,12597,true
+Merge Sort,Sorted,1100,0.934000,14025,true
+Quick Sort,Sorted,1100,3.739200,27612,true
+Radix Sort,Sorted,1100,1.246600,4798,true
+Radix+Quick Sort,Sorted,1100,3.092400,12453,true
+Merge Sort,Reverse Sorted,1100,0.988000,13228,true
+Quick Sort,Reverse Sorted,1100,3.834400,28159,true
+Radix Sort,Reverse Sorted,1100,1.250400,4812,true
+Radix+Quick Sort,Reverse Sorted,1100,3.046200,12521,true
+Merge Sort,Almost Sorted,1100,1.292400,20244,true
+Quick Sort,Almost Sorted,1100,3.792800,28326,true
+Radix Sort,Almost Sorted,1100,1.186800,4774,true
+Radix+Quick Sort,Almost Sorted,1100,3.028800,12577,true
+Merge Sort,Common Prefix,1100,2.400600,71453,true
+Quick Sort,Common Prefix,1100,4.946000,90193,true
+Radix Sort,Common Prefix,1100,2.063400,15787,true
+Radix+Quick Sort,Common Prefix,1100,4.104600,40567,true
+Merge Sort,Random,1200,1.593000,25323,true
+Quick Sort,Random,1200,4.129200,29751,true
+Radix Sort,Random,1200,1.407000,5274,true
+Radix+Quick Sort,Random,1200,3.442200,14167,true
+Merge Sort,Sorted,1200,1.040200,15850,true
+Quick Sort,Sorted,1200,4.116800,31109,true
+Radix Sort,Sorted,1200,1.401800,5285,true
+Radix+Quick Sort,Sorted,1200,3.308800,14014,true
+Merge Sort,Reverse Sorted,1200,1.075600,14430,true
+Quick Sort,Reverse Sorted,1200,4.275800,31693,true
+Radix Sort,Reverse Sorted,1200,1.366800,5268,true
+Radix+Quick Sort,Reverse Sorted,1200,3.363600,14276,true
+Merge Sort,Almost Sorted,1200,1.431800,22825,true
+Quick Sort,Almost Sorted,1200,4.248600,32802,true
+Radix Sort,Almost Sorted,1200,1.343200,5276,true
+Radix+Quick Sort,Almost Sorted,1200,3.331200,14262,true
+Merge Sort,Common Prefix,1200,2.625000,79288,true
+Quick Sort,Common Prefix,1200,5.560600,97563,true
+Radix Sort,Common Prefix,1200,2.124200,17288,true
+Radix+Quick Sort,Common Prefix,1200,4.462000,45619,true
+Merge Sort,Random,1300,1.725200,27908,true
+Quick Sort,Random,1300,4.699600,34792,true
+Radix Sort,Random,1300,1.450800,5724,true
+Radix+Quick Sort,Random,1300,3.607200,15817,true
+Merge Sort,Sorted,1300,1.109200,17491,true
+Quick Sort,Sorted,1300,4.651200,34918,true
+Radix Sort,Sorted,1300,1.442400,5765,true
+Radix+Quick Sort,Sorted,1300,3.595000,15839,true
+Merge Sort,Reverse Sorted,1300,1.190000,15804,true
+Quick Sort,Reverse Sorted,1300,4.698000,35612,true
+Radix Sort,Reverse Sorted,1300,1.507000,5769,true
+Radix+Quick Sort,Reverse Sorted,1300,3.658800,15854,true
+Merge Sort,Almost Sorted,1300,1.549400,25260,true
+Quick Sort,Almost Sorted,1300,4.653600,33855,true
+Radix Sort,Almost Sorted,1300,1.457400,5766,true
+Radix+Quick Sort,Almost Sorted,1300,3.644200,15699,true
+Merge Sort,Common Prefix,1300,2.874800,87017,true
+Quick Sort,Common Prefix,1300,6.091800,113910,true
+Radix Sort,Common Prefix,1300,2.314600,18772,true
+Radix+Quick Sort,Common Prefix,1300,5.020200,51117,true
+Merge Sort,Random,1400,1.907000,30415,true
+Quick Sort,Random,1400,4.893200,37413,true
+Radix Sort,Random,1400,1.597200,6224,true
+Radix+Quick Sort,Random,1400,4.025000,17586,true
+Merge Sort,Sorted,1400,1.210200,19144,true
+Quick Sort,Sorted,1400,4.970600,39588,true
+Radix Sort,Sorted,1400,1.530400,6206,true
+Radix+Quick Sort,Sorted,1400,3.949400,17513,true
+Merge Sort,Reverse Sorted,1400,1.273200,17297,true
+Quick Sort,Reverse Sorted,1400,4.975600,38053,true
+Radix Sort,Reverse Sorted,1400,1.594000,6205,true
+Radix+Quick Sort,Reverse Sorted,1400,3.979600,17726,true
+Merge Sort,Almost Sorted,1400,1.703800,27480,true
+Quick Sort,Almost Sorted,1400,4.904800,37923,true
+Radix Sort,Almost Sorted,1400,1.608800,6246,true
+Radix+Quick Sort,Almost Sorted,1400,3.959200,17656,true
+Merge Sort,Common Prefix,1400,3.070600,94824,true
+Quick Sort,Common Prefix,1400,6.564000,121682,true
+Radix Sort,Common Prefix,1400,2.572000,20251,true
+Radix+Quick Sort,Common Prefix,1400,5.316400,56174,true
+Merge Sort,Random,1500,2.040600,33048,true
+Quick Sort,Random,1500,5.399000,41365,true
+Radix Sort,Random,1500,1.721600,6720,true
+Radix+Quick Sort,Random,1500,4.286000,19469,true
+Merge Sort,Sorted,1500,1.356800,20605,true
+Quick Sort,Sorted,1500,5.352000,42294,true
+Radix Sort,Sorted,1500,1.758400,6731,true
+Radix+Quick Sort,Sorted,1500,4.300400,19613,true
+Merge Sort,Reverse Sorted,1500,1.403200,18902,true
+Quick Sort,Reverse Sorted,1500,5.279400,39633,true
+Radix Sort,Reverse Sorted,1500,1.724400,6715,true
+Radix+Quick Sort,Reverse Sorted,1500,4.264400,19542,true
+Merge Sort,Almost Sorted,1500,1.898600,30024,true
+Quick Sort,Almost Sorted,1500,5.278800,40034,true
+Radix Sort,Almost Sorted,1500,1.697400,6722,true
+Radix+Quick Sort,Almost Sorted,1500,4.313400,19433,true
+Merge Sort,Common Prefix,1500,3.380200,102937,true
+Quick Sort,Common Prefix,1500,6.881600,128822,true
+Radix Sort,Common Prefix,1500,2.799800,21680,true
+Radix+Quick Sort,Common Prefix,1500,5.853000,61654,true
+Merge Sort,Random,1600,2.244600,35757,true
+Quick Sort,Random,1600,5.785400,42929,true
+Radix Sort,Random,1600,1.863200,7188,true
+Radix+Quick Sort,Random,1600,4.531800,21268,true
+Merge Sort,Sorted,1600,1.439600,22116,true
+Quick Sort,Sorted,1600,5.751200,45327,true
+Radix Sort,Sorted,1600,1.764200,7168,true
+Radix+Quick Sort,Sorted,1600,4.621400,21171,true
+Merge Sort,Reverse Sorted,1600,1.501800,20376,true
+Quick Sort,Reverse Sorted,1600,5.612000,44446,true
+Radix Sort,Reverse Sorted,1600,1.924000,7221,true
+Radix+Quick Sort,Reverse Sorted,1600,4.611000,21169,true
+Merge Sort,Almost Sorted,1600,1.944000,32122,true
+Quick Sort,Almost Sorted,1600,5.634400,43215,true
+Radix Sort,Almost Sorted,1600,1.845200,7176,true
+Radix+Quick Sort,Almost Sorted,1600,4.576000,21026,true
+Merge Sort,Common Prefix,1600,3.726600,111011,true
+Quick Sort,Common Prefix,1600,7.363800,136086,true
+Radix Sort,Common Prefix,1600,2.919600,23210,true
+Radix+Quick Sort,Common Prefix,1600,6.300800,66422,true
+Merge Sort,Random,1700,2.379600,38406,true
+Quick Sort,Random,1700,6.217000,47395,true
+Radix Sort,Random,1700,1.996600,7700,true
+Radix+Quick Sort,Random,1700,4.884400,23190,true
+Merge Sort,Sorted,1700,1.545200,23730,true
+Quick Sort,Sorted,1700,6.069600,47315,true
+Radix Sort,Sorted,1700,1.956400,7734,true
+Radix+Quick Sort,Sorted,1700,4.830200,23288,true
+Merge Sort,Reverse Sorted,1700,1.658600,21910,true
+Quick Sort,Reverse Sorted,1700,5.974600,47959,true
+Radix Sort,Reverse Sorted,1700,2.097200,7754,true
+Radix+Quick Sort,Reverse Sorted,1700,4.933600,23182,true
+Merge Sort,Almost Sorted,1700,2.126200,34807,true
+Quick Sort,Almost Sorted,1700,6.020000,46582,true
+Radix Sort,Almost Sorted,1700,2.075600,7721,true
+Radix+Quick Sort,Almost Sorted,1700,4.865000,23124,true
+Merge Sort,Common Prefix,1700,3.806200,119036,true
+Quick Sort,Common Prefix,1700,8.296000,159600,true
+Radix Sort,Common Prefix,1700,3.164000,24721,true
+Radix+Quick Sort,Common Prefix,1700,6.658000,73032,true
+Merge Sort,Random,1800,2.600200,41154,true
+Quick Sort,Random,1800,6.498800,51512,true
+Radix Sort,Random,1800,2.128800,8165,true
+Radix+Quick Sort,Random,1800,5.212600,25054,true
+Merge Sort,Sorted,1800,1.642800,25169,true
+Quick Sort,Sorted,1800,6.447200,51869,true
+Radix Sort,Sorted,1800,2.212200,8232,true
+Radix+Quick Sort,Sorted,1800,5.287800,24905,true
+Merge Sort,Reverse Sorted,1800,1.738200,23661,true
+Quick Sort,Reverse Sorted,1800,6.434000,51302,true
+Radix Sort,Reverse Sorted,1800,2.191800,8210,true
+Radix+Quick Sort,Reverse Sorted,1800,5.212400,24939,true
+Merge Sort,Almost Sorted,1800,2.282400,37164,true
+Quick Sort,Almost Sorted,1800,6.394000,51387,true
+Radix Sort,Almost Sorted,1800,2.093800,8186,true
+Radix+Quick Sort,Almost Sorted,1800,5.195600,25220,true
+Merge Sort,Common Prefix,1800,4.181600,127124,true
+Quick Sort,Common Prefix,1800,8.603800,161592,true
+Radix Sort,Common Prefix,1800,3.397400,26234,true
+Radix+Quick Sort,Common Prefix,1800,7.081600,77830,true
+Merge Sort,Random,1900,2.761600,43784,true
+Quick Sort,Random,1900,6.756200,54125,true
+Radix Sort,Random,1900,2.355000,8718,true
+Radix+Quick Sort,Random,1900,5.576200,27023,true
+Merge Sort,Sorted,1900,1.762000,26572,true
+Quick Sort,Sorted,1900,6.737000,52801,true
+Radix Sort,Sorted,1900,2.252000,8700,true
+Radix+Quick Sort,Sorted,1900,5.437400,26792,true
+Merge Sort,Reverse Sorted,1900,1.866600,25311,true
+Quick Sort,Reverse Sorted,1900,6.706800,53656,true
+Radix Sort,Reverse Sorted,1900,2.362000,8688,true
+Radix+Quick Sort,Reverse Sorted,1900,5.427800,26892,true
+Merge Sort,Almost Sorted,1900,2.462400,39717,true
+Quick Sort,Almost Sorted,1900,6.677800,52669,true
+Radix Sort,Almost Sorted,1900,2.346400,8714,true
+Radix+Quick Sort,Almost Sorted,1900,5.410000,26856,true
+Merge Sort,Common Prefix,1900,4.466400,135305,true
+Quick Sort,Common Prefix,1900,8.968400,171131,true
+Radix Sort,Common Prefix,1900,3.680200,27763,true
+Radix+Quick Sort,Common Prefix,1900,7.444200,83668,true
+Merge Sort,Random,2000,2.853000,46571,true
+Quick Sort,Random,2000,7.240200,58285,true
+Radix Sort,Random,2000,2.446000,9166,true
+Radix+Quick Sort,Random,2000,5.797400,28644,true
+Merge Sort,Sorted,2000,1.781000,27742,true
+Quick Sort,Sorted,2000,7.125600,59551,true
+Radix Sort,Sorted,2000,2.385200,9212,true
+Radix+Quick Sort,Sorted,2000,5.774800,28684,true
+Merge Sort,Reverse Sorted,2000,1.956400,27160,true
+Quick Sort,Reverse Sorted,2000,7.113000,56780,true
+Radix Sort,Reverse Sorted,2000,2.533800,9220,true
+Radix+Quick Sort,Reverse Sorted,2000,5.804400,28769,true
+Merge Sort,Almost Sorted,2000,2.514000,41559,true
+Quick Sort,Almost Sorted,2000,7.170400,57741,true
+Radix Sort,Almost Sorted,2000,2.587000,9235,true
+Radix+Quick Sort,Almost Sorted,2000,5.745200,28635,true
+Merge Sort,Common Prefix,2000,4.665600,143590,true
+Quick Sort,Common Prefix,2000,9.692400,183536,true
+Radix Sort,Common Prefix,2000,3.843600,29224,true
+Radix+Quick Sort,Common Prefix,2000,7.768000,90104,true
+Merge Sort,Random,2100,2.982400,49334,true
+Quick Sort,Random,2100,7.723800,61318,true
+Radix Sort,Random,2100,2.690800,9724,true
+Radix+Quick Sort,Random,2100,6.157800,30829,true
+Merge Sort,Sorted,2100,1.936800,29424,true
+Quick Sort,Sorted,2100,7.423000,59834,true
+Radix Sort,Sorted,2100,2.529400,9697,true
+Radix+Quick Sort,Sorted,2100,6.087400,30877,true
+Merge Sort,Reverse Sorted,2100,2.058800,28698,true
+Quick Sort,Reverse Sorted,2100,7.554200,61562,true
+Radix Sort,Reverse Sorted,2100,2.679200,9734,true
+Radix+Quick Sort,Reverse Sorted,2100,6.065600,31109,true
+Merge Sort,Almost Sorted,2100,2.609800,44114,true
+Quick Sort,Almost Sorted,2100,7.481400,63083,true
+Radix Sort,Almost Sorted,2100,2.591400,9717,true
+Radix+Quick Sort,Almost Sorted,2100,6.112200,30882,true
+Merge Sort,Common Prefix,2100,5.016800,152057,true
+Quick Sort,Common Prefix,2100,9.761400,189331,true
+Radix Sort,Common Prefix,2100,4.140600,30733,true
+Radix+Quick Sort,Common Prefix,2100,8.414400,95215,true
+Merge Sort,Random,2200,3.182200,52151,true
+Quick Sort,Random,2200,7.922000,65212,true
+Radix Sort,Random,2200,2.816000,10245,true
+Radix+Quick Sort,Random,2200,6.429000,32825,true
+Merge Sort,Sorted,2200,2.050800,31640,true
+Quick Sort,Sorted,2200,7.929600,67039,true
+Radix Sort,Sorted,2200,2.780200,10272,true
+Radix+Quick Sort,Sorted,2200,6.389000,32587,true
+Merge Sort,Reverse Sorted,2200,2.196200,29913,true
+Quick Sort,Reverse Sorted,2200,7.798400,65287,true
+Radix Sort,Reverse Sorted,2200,2.935200,10275,true
+Radix+Quick Sort,Reverse Sorted,2200,6.441000,32632,true
+Merge Sort,Almost Sorted,2200,2.837400,47334,true
+Quick Sort,Almost Sorted,2200,7.763600,64083,true
+Radix Sort,Almost Sorted,2200,2.865000,10302,true
+Radix+Quick Sort,Almost Sorted,2200,6.387400,32923,true
+Merge Sort,Common Prefix,2200,5.321200,160622,true
+Quick Sort,Common Prefix,2200,10.447000,197534,true
+Radix Sort,Common Prefix,2200,4.578200,32249,true
+Radix+Quick Sort,Common Prefix,2200,8.839000,101242,true
+Merge Sort,Random,2300,3.400200,55036,true
+Quick Sort,Random,2300,8.267000,66999,true
+Radix Sort,Random,2300,3.062600,10769,true
+Radix+Quick Sort,Random,2300,6.824800,34847,true
+Merge Sort,Sorted,2300,2.212800,33630,true
+Quick Sort,Sorted,2300,8.411600,69348,true
+Radix Sort,Sorted,2300,3.007200,10784,true
+Radix+Quick Sort,Sorted,2300,6.673800,35005,true
+Merge Sort,Reverse Sorted,2300,2.344200,31347,true
+Quick Sort,Reverse Sorted,2300,8.315200,69398,true
+Radix Sort,Reverse Sorted,2300,3.039600,10771,true
+Radix+Quick Sort,Reverse Sorted,2300,6.683600,34957,true
+Merge Sort,Almost Sorted,2300,3.071000,50399,true
+Quick Sort,Almost Sorted,2300,8.199800,67174,true
+Radix Sort,Almost Sorted,2300,3.002800,10796,true
+Radix+Quick Sort,Almost Sorted,2300,6.838800,34978,true
+Merge Sort,Common Prefix,2300,5.626400,169140,true
+Quick Sort,Common Prefix,2300,10.731800,209294,true
+Radix Sort,Common Prefix,2300,4.617800,33788,true
+Radix+Quick Sort,Common Prefix,2300,9.233800,107092,true
+Merge Sort,Random,2400,3.561800,57918,true
+Quick Sort,Random,2400,8.714000,72385,true
+Radix Sort,Random,2400,3.176600,11272,true
+Radix+Quick Sort,Random,2400,6.954800,36825,true
+Merge Sort,Sorted,2400,2.305800,35642,true
+Quick Sort,Sorted,2400,8.699200,73446,true
+Radix Sort,Sorted,2400,3.118200,11300,true
+Radix+Quick Sort,Sorted,2400,7.044800,36788,true
+Merge Sort,Reverse Sorted,2400,2.473600,32707,true
+Quick Sort,Reverse Sorted,2400,8.481600,71660,true
+Radix Sort,Reverse Sorted,2400,3.212000,11323,true
+Radix+Quick Sort,Reverse Sorted,2400,7.043800,36995,true
+Merge Sort,Almost Sorted,2400,3.165600,53101,true
+Quick Sort,Almost Sorted,2400,8.698000,73076,true
+Radix Sort,Almost Sorted,2400,3.124600,11293,true
+Radix+Quick Sort,Almost Sorted,2400,6.979600,37059,true
+Merge Sort,Common Prefix,2400,5.824600,177799,true
+Quick Sort,Common Prefix,2400,12.891000,228716,true
+Radix Sort,Common Prefix,2400,4.892200,35308,true
+Radix+Quick Sort,Common Prefix,2400,9.646800,114222,true
+Merge Sort,Random,2500,3.732400,60749,true
+Quick Sort,Random,2500,9.224200,77457,true
+Radix Sort,Random,2500,3.360200,11794,true
+Radix+Quick Sort,Random,2500,7.316000,39272,true
+Merge Sort,Sorted,2500,2.377800,37506,true
+Quick Sort,Sorted,2500,8.990200,75335,true
+Radix Sort,Sorted,2500,3.373000,11880,true
+Radix+Quick Sort,Sorted,2500,7.445600,39102,true
+Merge Sort,Reverse Sorted,2500,2.591000,34259,true
+Quick Sort,Reverse Sorted,2500,9.106200,74148,true
+Radix Sort,Reverse Sorted,2500,3.412000,11832,true
+Radix+Quick Sort,Reverse Sorted,2500,7.395600,39363,true
+Merge Sort,Almost Sorted,2500,3.329400,55795,true
+Quick Sort,Almost Sorted,2500,9.023200,75799,true
+Radix Sort,Almost Sorted,2500,3.429800,11870,true
+Radix+Quick Sort,Almost Sorted,2500,7.345800,38683,true
+Merge Sort,Common Prefix,2500,6.145200,186306,true
+Quick Sort,Common Prefix,2500,12.057600,235581,true
+Radix Sort,Common Prefix,2500,5.380400,36829,true
+Radix+Quick Sort,Common Prefix,2500,10.180400,119025,true
+Merge Sort,Random,2600,3.915200,63668,true
+Quick Sort,Random,2600,9.459400,80239,true
+Radix Sort,Random,2600,3.560600,12321,true
+Radix+Quick Sort,Random,2600,7.754200,41129,true
+Merge Sort,Sorted,2600,2.529800,39298,true
+Quick Sort,Sorted,2600,9.308400,79997,true
+Radix Sort,Sorted,2600,3.426400,12342,true
+Radix+Quick Sort,Sorted,2600,7.608600,41165,true
+Merge Sort,Reverse Sorted,2600,2.582200,35887,true
+Quick Sort,Reverse Sorted,2600,9.242400,76986,true
+Radix Sort,Reverse Sorted,2600,3.600000,12358,true
+Radix+Quick Sort,Reverse Sorted,2600,7.660200,41194,true
+Merge Sort,Almost Sorted,2600,3.461600,58205,true
+Quick Sort,Almost Sorted,2600,9.585200,82742,true
+Radix Sort,Almost Sorted,2600,3.560800,12370,true
+Radix+Quick Sort,Almost Sorted,2600,7.523800,41074,true
+Merge Sort,Common Prefix,2600,6.415200,194976,true
+Quick Sort,Common Prefix,2600,12.720200,250329,true
+Radix Sort,Common Prefix,2600,5.302800,38370,true
+Radix+Quick Sort,Common Prefix,2600,10.481400,126728,true
+Merge Sort,Random,2700,4.063800,66619,true
+Quick Sort,Random,2700,9.882800,85678,true
+Radix Sort,Random,2700,3.666800,12878,true
+Radix+Quick Sort,Random,2700,7.941600,43228,true
+Merge Sort,Sorted,2700,2.680200,41180,true
+Quick Sort,Sorted,2700,9.823800,83617,true
+Radix Sort,Sorted,2700,3.680600,12912,true
+Radix+Quick Sort,Sorted,2700,8.005600,43463,true
+Merge Sort,Reverse Sorted,2700,2.860000,37371,true
+Quick Sort,Reverse Sorted,2700,9.876400,82359,true
+Radix Sort,Reverse Sorted,2700,3.685800,12854,true
+Radix+Quick Sort,Reverse Sorted,2700,8.053600,43310,true
+Merge Sort,Almost Sorted,2700,3.720000,61144,true
+Quick Sort,Almost Sorted,2700,9.883200,83569,true
+Radix Sort,Almost Sorted,2700,3.776200,12942,true
+Radix+Quick Sort,Almost Sorted,2700,7.957400,43781,true
+Merge Sort,Common Prefix,2700,6.680600,203783,true
+Quick Sort,Common Prefix,2700,13.014000,251092,true
+Radix Sort,Common Prefix,2700,5.714000,39975,true
+Radix+Quick Sort,Common Prefix,2700,11.076000,132344,true
+Merge Sort,Random,2800,4.267600,69562,true
+Quick Sort,Random,2800,10.262000,84980,true
+Radix Sort,Random,2800,3.954200,13416,true
+Radix+Quick Sort,Random,2800,8.317400,45619,true
+Merge Sort,Sorted,2800,2.784800,42872,true
+Quick Sort,Sorted,2800,10.198800,88426,true
+Radix Sort,Sorted,2800,3.745800,13419,true
+Radix+Quick Sort,Sorted,2800,8.187400,45809,true
+Merge Sort,Reverse Sorted,2800,2.899200,38989,true
+Quick Sort,Reverse Sorted,2800,10.222000,87609,true
+Radix Sort,Reverse Sorted,2800,3.890000,13402,true
+Radix+Quick Sort,Reverse Sorted,2800,8.389400,45228,true
+Merge Sort,Almost Sorted,2800,3.767000,63903,true
+Quick Sort,Almost Sorted,2800,10.064600,86988,true
+Radix Sort,Almost Sorted,2800,3.832600,13425,true
+Radix+Quick Sort,Almost Sorted,2800,8.391600,45707,true
+Merge Sort,Common Prefix,2800,6.984600,212335,true
+Quick Sort,Common Prefix,2800,13.701800,271107,true
+Radix Sort,Common Prefix,2800,5.871600,41424,true
+Radix+Quick Sort,Common Prefix,2800,11.412600,139790,true
+Merge Sort,Random,2900,4.454200,72341,true
+Quick Sort,Random,2900,10.570800,90340,true
+Radix Sort,Random,2900,4.127000,13973,true
+Radix+Quick Sort,Random,2900,8.667000,47487,true
+Merge Sort,Sorted,2900,2.828000,44651,true
+Quick Sort,Sorted,2900,10.691600,89029,true
+Radix Sort,Sorted,2900,4.037400,13950,true
+Radix+Quick Sort,Sorted,2900,8.542600,47951,true
+Merge Sort,Reverse Sorted,2900,2.984600,40731,true
+Quick Sort,Reverse Sorted,2900,10.702400,94310,true
+Radix Sort,Reverse Sorted,2900,4.193400,14004,true
+Radix+Quick Sort,Reverse Sorted,2900,8.625800,47781,true
+Merge Sort,Almost Sorted,2900,3.998800,67072,true
+Quick Sort,Almost Sorted,2900,10.356400,86849,true
+Radix Sort,Almost Sorted,2900,4.109400,14002,true
+Radix+Quick Sort,Almost Sorted,2900,8.476400,47764,true
+Merge Sort,Common Prefix,2900,7.318200,221342,true
+Quick Sort,Common Prefix,2900,13.927000,276370,true
+Radix Sort,Common Prefix,2900,6.027800,43006,true
+Radix+Quick Sort,Common Prefix,2900,11.753600,145258,true
+Merge Sort,Random,3000,4.598600,75397,true
+Quick Sort,Random,3000,10.835000,93634,true
+Radix Sort,Random,3000,4.367600,14499,true
+Radix+Quick Sort,Random,3000,8.868600,49938,true
+Merge Sort,Sorted,3000,2.924800,46211,true
+Quick Sort,Sorted,3000,11.041800,96288,true
+Radix Sort,Sorted,3000,4.277600,14538,true
+Radix+Quick Sort,Sorted,3000,8.766600,50092,true
+Merge Sort,Reverse Sorted,3000,3.095600,42536,true
+Quick Sort,Reverse Sorted,3000,10.699400,91802,true
+Radix Sort,Reverse Sorted,3000,4.320600,14505,true
+Radix+Quick Sort,Reverse Sorted,3000,8.912600,50102,true
+Merge Sort,Almost Sorted,3000,4.062800,69159,true
+Quick Sort,Almost Sorted,3000,10.818400,91622,true
+Radix Sort,Almost Sorted,3000,4.399200,14544,true
+Radix+Quick Sort,Almost Sorted,3000,8.986800,49521,true
+Merge Sort,Common Prefix,3000,7.513400,230017,true
+Quick Sort,Common Prefix,3000,14.584800,286535,true
+Radix Sort,Common Prefix,3000,6.292000,44525,true
+Radix+Quick Sort,Common Prefix,3000,12.241000,152350,true
